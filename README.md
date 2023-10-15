@@ -13,13 +13,13 @@
 
 - 📱 I'm Android developer and Control engineering at Al-Neelain University 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Kotlin, Dart, and Flutter, or anything related to Mobile development.
+- 💬 Ask me about my experience with: AI, Kotlin, Dart, and Flutter, or anything related to Mobile development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my CV at [✅](https://drive.google.com/file/d/1FZPVXhBwisWEY0FARPeGg7W5t2S714GA/view?usp=sharing) to see me.
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/saifuddin-ahmed-1ba8bb1b4" target="_blank"><img src="https://img.shields.io/badge/-Saifuddin%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/Saifuddin2Ahmed" target="_blank"><img src="https://img.shields.io/badge/-Saifuddin%20Ahmed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/Saifuddin2Ahmed" target="_blank"><img src="https://img.shields.io/badge/-Saifuddin%20Ahmed-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin)&nbsp;
