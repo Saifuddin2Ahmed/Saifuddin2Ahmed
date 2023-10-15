@@ -13,7 +13,7 @@
 
 - 📱 I'm Android developer and Control engineering at Al-Neelain University 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with: AI, Kotlin, Dart, and Flutter, or anything related to Mobile development.
+- 💬 Ask me about my experience with: AI, Kotlin, Dart,Python and Flutter, or anything related to Mobile development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my CV at [✅](https://drive.google.com/file/d/1FZPVXhBwisWEY0FARPeGg7W5t2S714GA/view?usp=sharing) to see me.
 
