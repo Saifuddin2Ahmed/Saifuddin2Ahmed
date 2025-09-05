@@ -11,7 +11,7 @@
   </a>
 </p>
 
-🎓 B.Sc. (Honours) in Control Engineering – Al Neelain University, Sudan (2024)  
+🎓 B.Sc. in Control Engineering – Al Neelain University, Sudan (2024)  
 🌍 Founder & Technical Director of Taeziz21 – a hybrid platform combining Media, Technology & Youth Empowerment  
 🤖 Research Interests: AI for Social Good, PeaceTech, Human-Centered AI, Control Systems  
 📚 Active with IEEE (EPICS Reviewer, PES, Entrepreneurship) and Deep Learning Indaba community  
