@@ -8,16 +8,16 @@
 🌍 **Graduate of IEEE R8 YP LEAD Program 2025**  
 🖌️ **Graphic Designer | Mobile & Web Applications Developer**  
 🤖 **Researcher in Artificial Intelligence (AI for Social Good & PeaceTech)**  
-🚀 **Founder & Technical Development Director at Taeziz21** (Media-Tech & Youth Empowerment Platform)  
+🚀 **Co-Founder & Technical Development Director at Taeziz21** (Media-Tech & Youth Empowerment Platform)  
 📊 **Administrative Manager at Professor Abkar Center for Training and Strategic Studies**  
 📝 **Grant Proposal Reviewer – EPICS in IEEE (2024–2026)**  
 
-📧 **Email:** contact@taeziz21.com  
+📧 **Email:** saifuddin@taeziz21.com  
 🌍 **Website:** [www.taeziz21.com](https://www.taeziz21.com)  
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 More with Me
 <a href="https://www.linkedin.com/in/Saifuddin2ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/Saifuddin2Ahmed" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://ieee-collabratec.ieee.org/app/p/SaifuddinAhmed" target="_blank"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
