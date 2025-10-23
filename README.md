@@ -39,7 +39,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 highlighted Projects
 Here are some of my highlighted projects – click to explore:
 
 <p align="center">
