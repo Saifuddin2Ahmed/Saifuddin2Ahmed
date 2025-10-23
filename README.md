@@ -82,11 +82,6 @@ I design and deploy professional websites with a fast, reliable stack optimized 
 - Frontend tweaks: **HTML5, CSS3, basic JS**, performance & SEO tuning (Core Web Vitals, lazy loading, image optimization)  
 - Production workflow: domain setup, DNS, email, CDN, security hardening, and analytics
 
-**Selected website work** (curated):
-- Taeziz21 – Media-Tech & Youth Empowerment platform: https://www.taeziz21.com  
-- Professor Abkar Center – Training & Strategic Studies: *(add link)*  
-- Community/NGO landing pages: *(add links)*
-
 **What you get**
 - Clear information architecture, mobile-first responsive design  
 - Accessible UI, fast load, and editor-friendly pages for non-technical teams  
