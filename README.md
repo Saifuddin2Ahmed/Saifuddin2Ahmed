@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Welcome+to+Saifuddin+Ahmed's+GitHub!;Control+Engineer+%7C+AI+Researcher+%7C+Tech+Leader;Founder+of+Taeziz21+%7C+IEEE+YP+LEAD+2025+Graduate;AI+for+Social+Good+%7C+PeaceTech+%7C+Youth+Empowerment" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Welcome+to+Saifuddin+Ahmed's+GitHub!;Control+Engineer+%7C+AI+Researcher+%7C+Tech+Leader;Co-Founder+of+Taeziz21+%7C+IEEE+YP+LEAD+2025+Graduate;AI+for+Social+Good+%7C+PeaceTech+%7C+Youth+Empowerment" alt="Typing SVG" />
 </p>
 
 ---
