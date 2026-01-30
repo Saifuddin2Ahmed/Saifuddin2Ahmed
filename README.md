@@ -1,104 +1,79 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Welcome+to+Saifuddin+Ahmed's+GitHub!;Control+Engineer+%7C+AI+Researcher+%7C+Tech+Leader;Co-Founder+of+Taeziz21+%7C+IEEE+YP+LEAD+2025+Graduate;AI+for+Social+Good+%7C+PeaceTech+%7C+Youth+Empowerment" alt="Typing SVG" />
-</p>
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=System+Architect+%26+Control+Engineer;Building+Resilient+Digital+Infrastructures;AI+Researcher+%7C+NLP+%26+Agents;ERPNext+Expert+%7C+Open+Source+Advocate" alt="Typing SVG" />
+
+  <br>
+
+  <a href="https://www.linkedin.com/in/Saifuddin2ahmed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="https://taeziz21.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="mailto:saifuddin@taeziz21.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+
+</div>
 
 ---
 
-🎓 **B.Sc. in Control Engineering – Al Neelain University, Sudan (2024)**  
-🌍 **Graduate of IEEE R8 YP LEAD Program 2025**  
-🖌️ **Graphic Designer | Mobile & Web Applications Developer**  
-🤖 **Researcher in Artificial Intelligence (AI for Social Good & PeaceTech)**  
-🚀 **Co-Founder & Technical Development Director at Taeziz21** (Media-Tech & Youth Empowerment Platform)  
-📊 **Administrative Manager at Professor Abkar Center for Training and Strategic Studies**  
-📝 **Grant Proposal Reviewer – EPICS in IEEE (2024–2026)**  
+### 👨‍💻 Professional Summary
+I am a **Control Engineer** and **AI Researcher** specializing in **Digital Transformation** for organizations operating in challenging environments.
 
-📧 **Email:** saifuddin@taeziz21.com  
-🌍 **Website:** [www.taeziz21.com](https://www.taeziz21.com)  
+My expertise lies in deploying **ERP Systems (ERPNext/Odoo)** and designing **Offline-First Architectures** that ensure business continuity, transparency, and data integrity. I bridge the gap between technical complexity and institutional needs.
+
+* 🔭 **Current Focus:** Architecting a "Digital Resilience" ecosystem for NGOs and educational institutions.
+* 💼 **Key Roles:** Co-Founder & CTO of **Taeziz21** | Managing Director at *Professor Abkar Center*.
+* 🌍 **Impact:** Designing systems that serve displaced communities and enhance organizational transparency.
 
 ---
 
-### 🌐 More with Me
-<a href="https://www.linkedin.com/in/Saifuddin2ahmed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/Saifuddin2Ahmed" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://ieee-collabratec.ieee.org/app/p/SaifuddinAhmed" target="_blank"><img src="https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/></a>
-<a href="https://www.twitter.com/Saifuddin1Ahmed" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>  
+### 🛠️ Technical Ecosystem
+
+<div align="center">
+
+| **Enterprise Resource Planning (ERP)** | **AI & Automation** | **Development & DevOps** |
+| :---: | :---: | :---: |
+| ![ERPNext](https://img.shields.io/badge/ERPNext-v15-Blue?style=flat-square&logo=erpnext&logoColor=white) <br> ![Frappe](https://img.shields.io/badge/Frappe_Framework-Full_Stack-Blue?style=flat-square&logo=frappe&logoColor=white) <br> *Financials, HR, Supply Chain, CRM* | ![Python](https://img.shields.io/badge/Python-Data_Science-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-FF6584?style=flat-square&logo=n8n&logoColor=white) <br> *AI Agents, NLP, Data Analysis* | ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-Ubuntu_Server-FCC624?style=flat-square&logo=linux&logoColor=black) <br> ![Flutter](https://img.shields.io/badge/Flutter-Mobile_Apps-02569B?style=flat-square&logo=flutter&logoColor=white) |
+
+</div>
 
 ---
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=flat&logo=Mathworks)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 📂 Enterprise Implementations & Track Record
+*Due to client confidentiality agreements, source code for some enterprise projects is private. Below is a summary of deployed systems.*
+
+| **Project Type** | **Scope & Impact** | **Tech Stack** |
+| :--- | :--- | :--- |
+| 🏥 **Hospital Management System** | Complete digitization of patient records, pharmacy inventory, and lab results. **Outcome:** Reduced patient wait time by 40%. | `ERPNext Health` `Healthcare Domain` |
+| 🤝 **NGO Aid Distribution System** | A centralized system for a humanitarian organization to track aid delivery, donor transparency, and beneficiary databases. | `Frappe Framework` `Offline-Sync` |
+| 🏢 **University Academic Portal** | Student enrollment, fees management (linked with bank APIs), and academic grading system. | `ERPNext Education` `Custom API` |
+| 📊 **Commercial Supply Chain (Logistics)** | Multi-branch inventory management for a trading company (Import/Export), tracking stock levels across 3 countries. | `ERPNext Stock` `Buying/Selling` |
 
 ---
 
-### 🚀 highlighted Projects
-Here are some of my highlighted projects – click to explore:
+### 🚀 Open Source & AI Projects
 
 <p align="center">
   <a href="https://github.com/Saifuddin2Ahmed/Positive-Youth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=Positive-Youth&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=Positive-Youth&theme=radical&border_radius=10" />
   </a>
   <a href="https://github.com/Saifuddin2Ahmed/ishraqa_yawmeya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=ishraqa_yawmeya&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=ishraqa_yawmeya&theme=radical&border_radius=10" />
   </a>
-</p>
-
-<!-- Uncomment these two cards AFTER you create the repos with the EXACT names -->
-<!--
-<p align="center">
-  <a href="https://github.com/Saifuddin2Ahmed/AI-for-Peacebuilding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=AI-for-Peacebuilding&theme=radical" />
-  </a>
-  <a href="https://github.com/Saifuddin2Ahmed/Control-Systems-Simulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=Control-Systems-Simulation&theme=radical" />
-  </a>
-</p>
--->
-
----
-
-### 🏆 Achievements
-- **IEEE PES Day Brand Ambassador 2024**  
-- **Certificate of IEEE Membership Milestone 2024**  
-- **EPICS in IEEE Grant Reviewer (2024–2026)**  
-- **Participant in Deep Learning Indaba (2023, 2024, 2025)**  
-- **Founder of Taeziz21 – Hybrid Media-Tech Platform for Youth Empowerment**  
-- **Graduate of IEEE R8 YP LEAD Program 2025**  
-
----
-### 🌐 Web Design & Deployment
-I design and deploy professional websites with a fast, reliable stack optimized for SMEs, NGOs, and community projects.
-
-- Hosting & Deployment: **Hostinger (hPanel, backups, SSL, staging)**  
-- Site Builders & Themes: **WordPress**, **Elementor/Block Editor**, premium templates (customized for brand & UX)  
-- Frontend tweaks: **HTML5, CSS3, basic JS**, performance & SEO tuning (Core Web Vitals, lazy loading, image optimization)  
-- Production workflow: domain setup, DNS, email, CDN, security hardening, and analytics
-
-**What you get**
-- Clear information architecture, mobile-first responsive design  
-- Accessible UI, fast load, and editor-friendly pages for non-technical teams  
-- Handover docs + video walkthrough when needed
-
-For collaborations or commissions: **contact@taeziz21.com**
-
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifuddin2Ahmed&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifuddin2Ahmed&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifuddin2Ahmed&theme=radical" alt="Saifuddin's GitHub Streak"/>
-</p>
+### 🏆 Credentials & Certifications
+* **B.Sc. in Control Engineering** – Al Neelain University (2024).
+* **Graduate of IEEE R8 YP LEAD Program 2025**.
+* **Grant Proposal Reviewer** – EPICS in IEEE (2024–2026).
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saifuddin2Ahmed&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saifuddin2Ahmed&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160"/>
+</div>
