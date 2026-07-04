@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="mailto:saifuddin@taeziz21.com">
+<a href="mailto:support@otwox.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -100,8 +100,17 @@ Founder & CTO → **OtwoX Digital Solutions**
 
 # 🛠 Tech Stack
 
+# 🛠 Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,kotlin,java,cpp,docker,postgres,git,github,firebase,linux,nginx,figma,vscode" />
+
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,kotlin,java,cpp,git,github,firebase,linux,nginx,figma,vscode" />
 
 </p>
 
@@ -111,7 +120,6 @@ Founder & CTO → **OtwoX Digital Solutions**
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Saifuddin2Ahmed&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifuddin2Ahmed&theme=radical" height="170"/>
 </p>
 
 ---
