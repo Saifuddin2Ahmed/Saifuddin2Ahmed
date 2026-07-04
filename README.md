@@ -51,13 +51,16 @@ Control Engineer • AI Researcher • Systems Architect
 I design **enterprise systems, mobile apps, and AI-powered automation**  
 that transform manual work into **smart digital workflows**.
 
-Founder & CTO → **Taeziz21**
+Founder & CTO → **OtwoX Digital Solutions**
 
 ---
 
 # 🧠 What I Build
 
 ## 🏥 Enterprise Systems
+- Humanitarian ERP
+- Digital Transformation
+- Enterprise Systems
 - Hospital & Clinic Management  
 - Pharma & Distribution  
 - University & Training Centers  
