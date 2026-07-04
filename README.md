@@ -100,10 +100,7 @@ Founder & CTO → **OtwoX Digital Solutions**
 
 # 🛠 Tech Stack
 
-# 🛠 Tech Stack
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
