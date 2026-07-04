@@ -101,8 +101,7 @@ Founder & CTO → **OtwoX Digital Solutions**
 # 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,kotlin,java,cpp,tensorflow,pytorch,git,docker,firebase,figma" />
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,kotlin,java,cpp,docker,postgres,git,github,firebase,linux,nginx,figma,vscode" />
 
 </p>
 
@@ -111,7 +110,7 @@ Founder & CTO → **OtwoX Digital Solutions**
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saifuddin2Ahmed&show_icons=true&theme=radical" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Saifuddin2Ahmed&theme=radical" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saifuddin2Ahmed&theme=radical" height="170"/>
 </p>
 
