@@ -80,21 +80,11 @@ Founder & CTO → **OtwoX Digital Solutions**
 
 # ⭐ Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/Saifuddin2Ahmed/Positive-Youth">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=Positive-Youth&theme=radical" />
-</a>
-
-<a href="https://github.com/Saifuddin2Ahmed/ishraqa_yawmeya">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=ishraqa_yawmeya&theme=radical" />
-</a>
-
-<a href="https://github.com/Saifuddin2Ahmed/myProject">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Saifuddin2Ahmed&repo=myProject&theme=radical" />
-</a>
-
-</p>
+| Project | What it is |
+|---|---|
+| [**Rafu**](https://github.com/Saifuddin2Ahmed/rafu) | Offline-first stock, sales and credit book for small shops: mobile-money payment matching, voice selling, WhatsApp debt reminders. Kotlin, Jetpack Compose, Room. It grew out of my 2022 Google Africa Developer Scholarship (GADS) Android training. |
+| [**Matchpiece**](https://github.com/Saifuddin2Ahmed/matchpiece) | Find teammates, mentors and study partners. 1st place, Hacktoberfest Hack Day Kampala 2026. |
+| [**Ishraqa**](https://ishraqa.app) | Multilingual learning app on Google Play, the App Store and the Microsoft Store: developer clubs, languages, reading and more. |
 
 ---
 
