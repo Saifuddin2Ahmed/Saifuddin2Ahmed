@@ -16,16 +16,12 @@
 
 <p align="center">
 
-<a href="https://wa.me/249968033707">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<a href="https://saifuddin.dev">
+<img src="https://img.shields.io/badge/saifuddin.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:support@otwox.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="tel:+256778660242">
-<img src="https://img.shields.io/badge/Call-000000?style=for-the-badge&logo=phone&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/Saifuddin2ahmed">
