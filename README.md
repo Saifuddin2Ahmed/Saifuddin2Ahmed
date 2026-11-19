@@ -1,118 +1,50 @@
-<!-- ================= HERO ================= -->
+### Saifuddin Ahmed
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=00F3FF&center=true&vCenter=true&width=900&lines=Saifuddin+Ahmed;Systems+Architect;AI+Engineer;Automation+Builder;Mobile+%26+Web+Developer;Digital+Transformation+Expert" />
-</p>
+Engineer working where language, knowledge and AI meet. Control engineer by training, product builder by practice. Based in Kampala, Uganda.
 
-<h3 align="center">
-🚀 Building Intelligent Systems for Real-World Impact
-</h3>
+My research looks at how speech recognition should be evaluated when data is scarce, starting with Sudanese Arabic. I also build and ship products end to end, from the first idea to the store release.
 
----
-
-<!-- ================= CONTACT ================= -->
-
-## 📞 Connect With Me
-
-<p align="center">
-
-<a href="https://saifuddin.dev">
-<img src="https://img.shields.io/badge/saifuddin.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:support@otwox.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/Saifuddin2ahmed">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/Saifuddin2Ahmed">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Saifuddin2Ahmed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+[![Website](https://img.shields.io/badge/saifuddin.dev-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://saifuddin.dev)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9719--7258-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9719-7258)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=0QZaFigAAAAJ)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-saifuddin2ahmed-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/saifuddin2ahmed)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Saifuddin-Ahmed-17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saifuddin2ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifuddin2ahmed)
 
 ---
 
-# 👨‍💻 About Me
+#### Research
 
-Control Engineer • AI Researcher • Systems Architect  
+**What Is in a WER? Reproducible Evaluation of Whisper for Sudanese Arabic** (2026, preprint)
+Speaker-disjoint splits, bootstrap confidence intervals and a reproduced published checkpoint, showing how much of a reported error rate depends on text normalisation.
+[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24355118.svg)](https://doi.org/10.5281/zenodo.24355118)
+[![Code DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24354752.svg)](https://doi.org/10.5281/zenodo.24354752)
+· Code: [sudanese-asr-eval](https://github.com/Saifuddin2Ahmed/sudanese-asr-eval)
+· Data: [Hugging Face dataset](https://huggingface.co/datasets/saifuddin2ahmed/sudanese-asr-eval)
 
-I design **enterprise systems, mobile apps, and AI-powered automation**  
-that transform manual work into **smart digital workflows**.
+**Moral desertification and liquid knowledge in the age of the algorithm** (2026, preprint in Arabic)
+A preliminary conceptual framework for how values are learned and passed on as media move from mass broadcasting to algorithmic feeds.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24333671.svg)](https://doi.org/10.5281/zenodo.24333671)
 
-Founder & CTO → **OtwoX Digital Solutions**
-
----
-
-# 🧠 What I Build
-
-## 🏥 Enterprise Systems
-- Humanitarian ERP
-- Digital Transformation
-- Enterprise Systems
-- Hospital & Clinic Management  
-- Pharma & Distribution  
-- University & Training Centers  
-- Financial & Institutional Platforms  
-
-## 📱 Mobile Apps
-- Flutter & Kotlin production apps  
-- Offline-first field tools  
-- Dashboards & automation  
-
-## 🤖 AI & Automation
-- Intelligent agents  
-- Process automation  
-- Decision support tools  
+**Rafu: An Offline-First Ledger for Small Shops with Privacy-Preserving Mobile-Money Reconciliation** (2026, technical note)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24293289.svg)](https://doi.org/10.5281/zenodo.24293289)
 
 ---
 
-# ⭐ Featured Projects
+#### Projects
 
 | Project | What it is |
 |---|---|
-| [**Rafu**](https://github.com/Saifuddin2Ahmed/rafu) | Offline-first stock, sales and credit book for small shops: mobile-money payment matching, voice selling, WhatsApp debt reminders. Kotlin, Jetpack Compose, Room. It grew out of my 2022 Google Africa Developer Scholarship (GADS) Android training. |
-| [**Matchpiece**](https://github.com/Saifuddin2Ahmed/matchpiece) | Find teammates, mentors and study partners. 1st place, Hacktoberfest Hack Day Kampala 2026. |
-| [**Ishraqa**](https://ishraqa.app) | Multilingual learning app on Google Play, the App Store and the Microsoft Store: developer clubs, languages, reading and more. |
+| [**Ishraqa Daily**](https://ishraqa.app/en/) | A learning community for knowledge, developer clubs and wider learning, on Android, iPhone and Windows. Designed, built and shipped end to end. |
+| [**sudanese-asr-eval**](https://github.com/Saifuddin2Ahmed/sudanese-asr-eval) | Split, normaliser and scoring for Sudanese Arabic speech recognition. The code behind *What Is in a WER?* |
+| [**Matchpiece**](https://github.com/Saifuddin2Ahmed/matchpiece) | Finds teammates, mentors and study partners. Built by a team of seven from five universities. Winner, Best Open-Source AI Project, Hacktoberfest Hack Day Kampala x MUBS (2026). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23737411.svg)](https://doi.org/10.5281/zenodo.23737411) |
+| [**ishraqa-cli**](https://github.com/ishraqa-app/ishraqa-cli) | Ishraqa Daily in your terminal, for the developer community. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23737415.svg)](https://doi.org/10.5281/zenodo.23737415) |
+| [**Rafu**](https://github.com/Saifuddin2Ahmed/rafu) | Offline-first stock, sales and credit book for small shops, with mobile-money reconciliation. |
 
 ---
 
-# 🛠 Tech Stack
+#### Elsewhere
 
-<p align="center">
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+Deep Learning Indaba selected participant (2023, 2024, 2026). Grant proposal reviewer for EPICS in IEEE. IEEE volunteer since 2021.
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,kotlin,java,cpp,git,github,firebase,linux,nginx,figma,vscode" />
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saifuddin2Ahmed&theme=radical" height="170"/>
-</p>
-
----
-
-# 💡 Let’s Build Something Big
-
-If you need:
-✔ System for your organization  
-✔ Mobile app  
-✔ AI solution  
-✔ Digital transformation  
-
-📩 **Contact me directly — let's talk.**
+The best way to reach me is through [saifuddin.dev](https://saifuddin.dev).
